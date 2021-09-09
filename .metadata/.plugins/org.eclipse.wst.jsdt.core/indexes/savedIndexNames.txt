@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+E:\Project\New folder\StudentFingerprint\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2680418534.index
+2436151074.index
+702930317.index
+566589366.index
+1677095533.index
